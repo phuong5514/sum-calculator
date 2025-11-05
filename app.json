@@ -41,6 +41,7 @@
       ]
     ],
     "experiments": {
+      "baseUrl": "/sum-calculator",
       "typedRoutes": true,
       "reactCompiler": true
     }
